@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-image: url("https://pbs.twimg.com/media/DLY46acXcAAoWX5.jpg");
+    background-size: 800px 770px;
+}
+img {
+    height: 200px;
+    width: 300px;
+    border-style: dotted dashed solid double;
+    border-color: red;
+}
+h1 {
+    color: lime;
+    background: black;
+    font-family: 'Fredoka One', cursive;
+}
+h2 {
+    color: skyblue;
+    background: black;
+    font-family: 'Montserrat', sans-serif;
+}
+ul {
+    color: white;
+    background: darkturquoise;
+    font-family: 'Orbitron', sans-serif;
+}
+h3 {
+    color: white;
+    background: tomato;
+    font-family: 'Sacramento', cursive;
+}
